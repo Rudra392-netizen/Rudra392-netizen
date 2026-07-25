@@ -223,8 +223,23 @@ CI/CD        → automation pipelines
   <b> rpsingh98188@gmail.com</b>
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/rudra-pratap-singh-1b451b27a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
+  <a href="https://medium.com/@rudra98188" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+
+  <a href="mailto:rpsingh98188@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <em>Let's connect, collaborate, and build amazing cloud-native solutions together.</em>
+</p>
 <p align="center">
 ⚡ <b>From Learning → Building → Production</b>
 </p>
